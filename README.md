@@ -6,8 +6,7 @@ Investor can apply for IPO Stocks by filling an IPO Application Form. These form
 
 IPOKart.co.in, India's No. 1 IPO investment portal provide recent IPO information from primary stock market. IPO Tools available on this website includes IPO Ratings, IPO Grading, IPO Reviews, Grey Market Premiums of IPO's, IPO News and IPO Performance Tracker. 
 
-### Markdown
-**Current IPOs
+### Current IPOs
 
 Company | Opening Date | Closing Date
 ------------ | ------------- |------------
