@@ -6,10 +6,11 @@ Investor can apply for IPO Stocks by filling an IPO Application Form. These form
 
 ### Current IPOs
 
-Company | Opening Date | Closing Date
+Company | Opening Date | Closing Date | Status
 ------------ | ------------- |------------
-Dilip Buildcon Ltd	| 24 Jul 2016	| 28 Jul 2016
-Advanced Enzyme Technologies Ltd	| 20 Jul 2016	| 22 Jul 2016
-L&T Infotech Ltd	| 20 Jul 2016	| 22 Jul 2016
-Quess Corp Ltd	| 28 Jul 2016	| 01 Aug 2016
-Mahanagar Gas Limited	| 02 Aug 2016	| 04 Aug 2016
+Prataap Snacks Limited | Sep 22	2017 | Sep 26	2017|Current
+Poojawestern Metaliks Ltd |22 Sep2017 | 26 Sep 2017	|Current
+Airo Lam Ltd | 25 Sep 2017	| 27 Sep 2017	| Upcoming
+Goldstar Power Ltd | 27 Sep 2017	| 29 Sep 2017	|Upcoming
+Mehai Technology Ltd | 25 Sep 2017	|28 Sep 2017	|Upcoming
+Vanta Bioscience Ltd | 25 Sep 2017	| 27 Sep 2017	|Upcoming
