@@ -1,53 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/ankitjainfk/ipokart.co.in/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Initial Public Offer (IPO), is the first sale of shares by the privately owned company to the public. The companies going public raises funds through IPO's for working capital, debt repayment, acquisitions, and a host of other uses. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Investor can apply for IPO Stocks by filling an IPO Application Form. These forms are usually available with stock brokers for free. Investor can also apply for IPO Stocks online through Online Stock Brokers like ICICI bank, Share Khan, and Reliance Money.
+
+IPOKart.co.in, India's No. 1 IPO investment portal provide recent IPO information from primary stock market. IPO Tools available on this website includes IPO Ratings, IPO Grading, IPO Reviews, Grey Market Premiums of IPO's, IPO News and IPO Performance Tracker. 
 
 ### Markdown
+**Current IPOs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-```markdown
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-----------------------------
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
--------------------------------
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankitjainfk/ipokart.co.in/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Company | Opening Date | Closing Date
+------------ | ------------- |------------
+Dilip Buildcon Ltd	| 24 Jul 2016	| 28 Jul 2016
+Advanced Enzyme Technologies Ltd	| 20 Jul 2016	| 22 Jul 2016
+L&T Infotech Ltd	| 20 Jul 2016	| 22 Jul 2016
+Quess Corp Ltd	| 28 Jul 2016	| 01 Aug 2016
+Mahanagar Gas Limited	| 02 Aug 2016	| 04 Aug 2016
