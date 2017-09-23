@@ -8,8 +8,8 @@ Investor can apply for IPO Stocks by filling an IPO Application Form. These form
 
 Company | Opening Date | Closing Date | Status
 ------------ | ------------- |------------
-Prataap Snacks Limited | Sep 22	2017 | Sep 26	2017|Current
-Poojawestern Metaliks Ltd |22 Sep2017 | 26 Sep 2017	|Current
+Prataap Snacks Limited | 22 Sep 2017 | 26 Sep	2017|Current
+Poojawestern Metaliks Ltd |22 Sep 2017 | 26 Sep 2017	|Current
 Airo Lam Ltd | 25 Sep 2017	| 27 Sep 2017	| Upcoming
 Goldstar Power Ltd | 27 Sep 2017	| 29 Sep 2017	|Upcoming
 Mehai Technology Ltd | 25 Sep 2017	|28 Sep 2017	|Upcoming
