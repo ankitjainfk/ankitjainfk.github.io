@@ -109,12 +109,13 @@ function myfunction() {
     background-color: FF69B4;
     color: white;
     font-size: 25px;
+	float: middle;
 }
 
 input[type=text]{
-    width: 50%;
+    width: 60%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     border-radius: 4px;
     resize: vertical;
 }
@@ -123,6 +124,7 @@ label {
     padding: 10px 10px 10px 0;
     display: inline-block;
 	color: white;
+	font-size:30px;
 }
 
 input[type=button] {
@@ -144,11 +146,13 @@ input[type=button]:hover {
 .container {
 	position:fixed;
     border-radius: 5px;
-	top:30%;
-	left:50%;
+	top:20%;
+	left:20%;
     background-color: #CC0033;
     padding: 20px;
-	width: 30%;
+	width: 50%;
+	opacity: 0.9;
+    filter: alpha(opacity=90); 
 }
 
 .col-25 {
@@ -169,21 +173,26 @@ input[type=button]:hover {
     display: table;
     clear: both;
 }
-@media screen and (max-width: 768px) {
-    .col-sm-4 {
-      text-align: center;
-      margin: 25px 0;
-    }
-    .btn-lg {
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
         width: 100%;
-        margin-bottom: 35px;
+        margin-top: 0;
     }
-  }
-  @media screen and (max-width: 480px) {
-    .logo {
-        font-size: 150px;
-    }
- }
+}
+
+.blinking{
+	animation:blinkingText 1.5s infinite;
+}
+@keyframes blinkingText{
+	0%{		color: #000;	}
+	49%{	color: white;	}
+	50%{	color: white;	}
+	99%{	color:white;	}
+	100%{	color: #000;	}
+}
+
 </style>
 </head>
 <body background="./img/background.jpg">
@@ -192,18 +201,18 @@ input[type=button]:hover {
   <form id="myform">
     <div class="row">
       <div class="col-25">
-        <label for="fname">Male</label>
+        <label for="fname">He</label>
       </div>
       <div class="col-75">
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input type="text" id="fname" name="firstname" placeholder="He name..">
       </div>
     </div>
     <div class="row">
       <div class="col-25">
-        <label for="lname">Female</label>
+        <label for="lname">She</label>
       </div>
       <div class="col-75">
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <input type="text" id="lname" name="lastname" placeholder="She name..">
       </div>
     </div>
     
@@ -211,7 +220,7 @@ input[type=button]:hover {
       <input type="button" id="calcbutton" onclick="myfunction()" value="Calculate">
 	  <input type="button" id="resetbutton" onclick="myreset()" value="Reset">
     </div>
-	<p id="demo"></p>
+	<p style="text-align:center;font-size:40px" class="blinking" id="demo"></p>
   </form>
   
 </div>
